@@ -1,0 +1,75 @@
+#id{
+  background-color: black;
+  width:1473px;
+}
+#id1{
+  width: 1473px;
+  height:200px;
+  background-image: url("code.jpeg");
+  -webkit-text-fill-color: orange;
+  font-size: 50px;
+  text-align: center;
+  padding-top:50px;
+}
+#id2{
+  width:1473px;
+  height:400px;
+  text-align: center;
+  background-image: url("water.jpeg");
+}
+#id3{
+  font-size: 50px;
+  text-align: center;
+}
+#id4{
+  background-image: url("theme.jpeg");
+  height:200px;
+  width:1473px;
+  text-align: center;
+}
+#id5{
+  font-size: 30px;
+  margin-left:30px;
+  margin-right:20px;
+}
+#id5:hover{
+  -webkit-text-fill-color: orange;
+}
+#id6{
+  font-size:30px;
+  cursor: pointer;
+  margin-right: 30px;
+  -webkit-text-fill-color: blue;
+}
+#id6:hover{
+  -webkit-text-fill-color: orange;
+}
+#id8{
+  text-decoration: none;
+}
+#id9{
+  background-image: url("profile.jpeg");
+  width:1473px;
+  height:200px;
+  text-align: center;
+}
+#id10{
+  background-image: url("stars.jpeg");
+  width:1473px;
+  height:200px;
+  text-align: center;
+}
+#id11{
+  font-size:25px;
+  cursor: pointer;
+  margin-right: 50px;
+  -webkit-text-fill-color: blue;
+}
+#id11:hover{
+  -webkit-text-fill-color: orange;
+}
+#id12{
+  -webkit-text-fill-color: white;
+  font-size: 50px;
+  text-align: center;
+}
